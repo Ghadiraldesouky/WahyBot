@@ -1,17 +1,16 @@
-# WahyBot
+# WhyBot
 “WahyBot: AI-powered bilingual chatbot for educational guidance using Azure OpenAI &amp; Power Apps.
 
-# 🤖 WahyBot – EduHackAI 10-Day Challenge
+# 🤖 WhyBot – EduHackAI 10-Day Challenge
 
-Welcome to **WahyBot**, an AI-powered educational assistant developed as part of the **EduHackAI** 10-Day Hackathon. This project leverages Microsoft technologies and AI services to enhance learning experiences.
+Welcome to **Bot**, an AI-powered educational assistant developed as part of the **EduHackAI** 10-Day Hackathon. This project leverages Microsoft technologies and AI services to enhance learning experiences.
 
 ---
 
 ## 📅 10-Day Submission Plan
 
 ### ✅ Day 1: Kickoff, Ideation & Team Formation
-- Attended the live kickoff session.
-- Selected an educational problem to solve with WahyBot.
+- Attended the live kickoff session..
 - Brainstormed ideas and formed the development team.
 
 ### ✅ Day 2: Define Solution & Tools
@@ -40,20 +39,6 @@ Welcome to **WahyBot**, an AI-powered educational assistant developed as part of
 - Tested app logic and AI accuracy.
 - Reviewed progress with coach and submitted mid-progress update.
 
-### ✅ Day 8: Finalize Features & Branding
-- Added WahyBot logo, app description, and branding elements.
-- Prepared pitch text and GitHub repository.
-
-### ✅ Day 9: Demo Video & Presentation
-- Recorded a walkthrough demo of WahyBot.
-- Created a 3–5 slide pitch deck.
-
-### ✅ Day 10: Final Submission & LinkedIn Share
-- Submitted final app and pitch materials.
-- Shared WahyBot on LinkedIn using **#EduHackAI**.
-- Participated in Demo Day celebration!
-
----
 
 ## 📂 Repository Structure
 
