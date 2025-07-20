@@ -1,0 +1,7 @@
+mkdir backend
+
+Folder	Purpose
+flows/	Store exported .zip Power Automate flows
+services/	Add markdown or scripts for SharePoint trigger logic
+actions/	Draft GitHub Actions YAML for future SharePoint publishing
+README.md	Overview of backend architecture (add Arabic-English notes!)
